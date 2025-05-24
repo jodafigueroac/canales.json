@@ -2,6 +2,13 @@
   "COLOMBIA": [
     { "name": "RCN", "url": "http://138.117.84.82:8002/4949/index.m3u8" },
     { "name": "Caracol TV", "url": "http://138.117.84.82:8002/8775/index.m3u8" }
+    { name: "Canal Uno", url: "http://138.117.84.82:8002/7409/index.m3u8" }
+	  { name: "City TV", url: "http://138.117.84.82:8002/7389/index.m3u8" }
+	  { name: "Señal Colombia", url: "http://138.117.84.82:8002/7406/index.m3u8" }
+	  { name: "Tele Antioquia", url: "http://138.117.84.82:8002/7385/index.m3u8" }
+	  { name: "Telecafe", url: "http://138.117.84.82:8002/7405/index.m3u8" }
+	  { name: "Tele Caribe", url: "http://138.117.84.82:8002/4962/index.m3u8" }
+	  { name: "Tele Islas", url: "http://138.117.84.82:8002/7400/index.m3u8" }
   ],
   "MUSICA": [
     { "name": "La Kalle", "url": "http://138.117.84.82:8002/4848/index.m3u8" }
