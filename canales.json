@@ -1,0 +1,9 @@
+{
+  "COLOMBIA": [
+    { "name": "RCN", "url": "http://138.117.84.82:8002/4949/index.m3u8" },
+    { "name": "Caracol TV", "url": "http://138.117.84.82:8002/8775/index.m3u8" }
+  ],
+  "MUSICA": [
+    { "name": "La Kalle", "url": "http://138.117.84.82:8002/4848/index.m3u8" }
+  ]
+}
