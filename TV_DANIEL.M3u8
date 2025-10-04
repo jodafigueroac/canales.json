@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
-
 #EXTM3U MUSICA
 #EXTINF:-1 tvg-id="" tvg-name="MIGENTE" tvg-logo="https://cdn.colombia.com/canales/mi-gente-radio-3510.jpg" group-title="MUSICA",MIGENTE
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
@@ -58,4 +56,5 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w848239903.m3u8
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="MUSICA",Hits360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+
 
