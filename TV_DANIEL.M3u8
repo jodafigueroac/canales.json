@@ -2,8 +2,6 @@
 #EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTM3U MUSICA
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/LaKallecol2018.png/revision/latest/scale-to-width-down/1000?cb=20240318212441&path-prefix=es" group-title="MUSICA",LA KALLE
-http://138.117.84.82:8002/4848/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIGENTE" tvg-logo="https://cdn.colombia.com/canales/mi-gente-radio-3510.jpg" group-title="MUSICA",MIGENTE
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1fd0a7cc75dbdd8108bb37c58d94ce6a.webp" group-title="MUSICA",TV Banda
@@ -60,3 +58,4 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w848239903.m3u8
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="MUSICA",Hits360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+
